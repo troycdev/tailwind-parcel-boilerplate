@@ -1,7 +1,8 @@
 {
   "name": "tailwind-parcel-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Boilerplate project for TailwindCSS projects using Parcel",
+  "author": "Troy Cooper <troy@troyc.dev> (https://troyc.dev/)",
   "main": "src/js/main.js",
   "scripts": {
     "dev": "parcel src/index.html",
